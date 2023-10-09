@@ -1,5 +1,17 @@
-
- 
+<ul class="nav">
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#">Active</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+  </li>
+</ul>
 
 # WELCOME TO MY PAGE                                      
       NAME : AHMED TEJAN JALLOH
@@ -38,7 +50,5 @@
 
 # PERSONAL PROFILE PICTURE
 ![gitpic](https://github.com/ATJ12345/TJWEST/assets/146546639/4c8eeca8-d16f-41af-8d44-685691c3e56e)
-
-
 
 
