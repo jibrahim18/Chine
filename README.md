@@ -1,43 +1,5 @@
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Ibrahim</title>
-  
-<style>
-   
-
-    header nav {
-        text-align: left;
-    }
-
-    footer {
-        background-color: #333;
-        color: white;
-        text-align: center;
-        padding: 10px 0;
-    }
-
-    nav ul {
-        list-style: none;
-        padding: 0;
-    }
-
-    nav ul li {
-        display: inline;
-        margin-right: 20px;
-    }
-
-    nav ul li a {
-        text-decoration: none;
-        color: white;
-    }
-</style>
-
- </head>
-<body>
-    <header style="color: white;text-align: center;padding: 20px 0;">
+  <header style="color: white;text-align: center;padding: 20px 0;">
         <h1>ZHEJIANG UNIVERSITY 2023</h1>
         <nav>
             <ul style="list-style: none;">
