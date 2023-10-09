@@ -9,7 +9,7 @@
     header {
         background-color: #333;
         color: white;
-        text-align: center;
+        text-align: left;
         padding: 20px 0;
     }
 
@@ -39,9 +39,10 @@
  </head>
 <body>
     <header>
-        <h1>Ibrahim</h1>
+        <h1>ZHEJIANG UNIVERSITY 2023</h1>
         <nav>
             <ul>
+                <li><a href="#about">About</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#contact">Contact Us</a></li>
             </ul>
@@ -72,6 +73,7 @@ If you have any questions or need assistance, feel free to contact us.
                 <li><a href="#contact">Contact Us</a></li>
             </ul>
         </nav>
+       <P>Prepard by a Sierra Leonean Student</P>
     </footer>
 </body>
 </html>
