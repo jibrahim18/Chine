@@ -48,6 +48,7 @@
             <ul>
                 <li><a href="#about">About</a></li>
                 <li><a href="#about">About</a></li>
+                <li><a href="
                 <li><a href="#contact">Contact Us</a></li>
             </ul>
         </nav>
@@ -73,8 +74,8 @@ If you have any questions or need assistance, feel free to contact us.
    <footer>
         <nav>
             <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact Us</a></li>
+                <li><a href="#Introduction">About</a></li>
+                <li><a href="#contact Us">Contact Us</a></li>
             </ul>
         </nav>
        <P>Prepard by a Sierra Leonean Student</P>
