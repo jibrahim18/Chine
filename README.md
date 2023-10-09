@@ -37,7 +37,7 @@
 
  </head>
 <body>
-    <header style="background-color: #333;color: white;text-align: center;padding: 20px 0;">
+    <header style="background-color: yellow;color: white;text-align: center;padding: 20px 0;">
         <h1>ZHEJIANG UNIVERSITY 2023</h1>
         <nav>
             <ul style="list-style: none;">
