@@ -6,12 +6,7 @@
     <title>README - Ibrahim</title>
   
 <style>
-    header {
-        background-color: #333;
-        color: white;
-        text-align: center;
-        padding: 20px 0;
-    }
+   
 
     header nav {
         text-align: left;
@@ -42,10 +37,10 @@
 
  </head>
 <body>
-    <header style>
+    <header style="background-color: #333;color: white;text-align: center;padding: 20px 0;">
         <h1>ZHEJIANG UNIVERSITY 2023</h1>
         <nav>
-            <ul>
+            <ul style="list-style: none;">
                 <li><a href="#about">About</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="
