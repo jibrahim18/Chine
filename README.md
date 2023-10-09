@@ -9,8 +9,12 @@
     header {
         background-color: #333;
         color: white;
-        text-align: left;
+        text-align: center;
         padding: 20px 0;
+    }
+
+    header nav {
+        text-align: left;
     }
 
     footer {
