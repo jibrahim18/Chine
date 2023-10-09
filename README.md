@@ -61,6 +61,5 @@ Explain how to use the project with code examples or instructions.
 
 
 ## Design by
-
-    This project's design was created by [Sierra Leonean Student](https://example.com/student-profile).
+     This project's design was created by [Sierra Leonean Student](https://example.com/student-profile).
 
