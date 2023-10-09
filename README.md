@@ -1,6 +1,10 @@
-# Your Project Title
+div style="text-align: right;">
+  <a href="#installation">Installation</a> |
+  <a href="#usage">Usage</a> |
+  <a href="#contributing">Contributing</a> |
+  <a href="#license">License</a>
+</div>
 
-[Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) | [License](#license)
 
 ## Installation
 Describe how to install the project and its dependencies.
