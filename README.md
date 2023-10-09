@@ -2,7 +2,7 @@
   <header style="color: white;text-align: center;padding: 20px 0;">
         <h1>ZHEJIANG UNIVERSITY 2023</h1>
         <nav>
-            <ul style="list-style: none;">
+            <ul style="list-style:none;">
                 <li><a href="#about">About</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="
