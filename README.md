@@ -1,15 +1,5 @@
 
-  <header style="color: white;text-align: center;padding: 20px 0;">
-        <h1>ZHEJIANG UNIVERSITY 2023</h1>
-        <nav>
-            <ul style="list-style:none;">
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="
-                <li><a href="#contact">Contact Us</a></li>
-            </ul>
-        </nav>
-    </header>
+ 
 
 # WELCOME TO MY PAGE                                      
       NAME : AHMED TEJAN JALLOH
