@@ -13,10 +13,10 @@ Describe how to install the project and its dependencies.
 Explain how to use the project with code examples or instructions.
 
 ## Contributing
-Provide guidelines for contributing to the project.
+    Provide guidelines for contributing to the project.
 
 ## License
-This project is licensed under the [License Name](LICENSE).
+    This project is licensed under the [License Name](LICENSE).
 
 
 
@@ -62,5 +62,5 @@ This project is licensed under the [License Name](LICENSE).
 
 ## Design by
 
-This project's design was created by [Sierra Leonean Student](https://example.com/student-profile).
+    This project's design was created by [Sierra Leonean Student](https://example.com/student-profile).
 
