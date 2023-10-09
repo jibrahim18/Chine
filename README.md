@@ -1,8 +1,6 @@
+# Your Project Title
 
-- [ZHEJIANG UNIVERSITY LOGO AND ONE OF THEIR REMARKABLE BUILDINGS](#ZHEJIANG)
-- [MARITAL STATUS ](#ABOUT)
-- [Contributing](#contributing)
-- [License](#license)
+[Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) | [License](#license)
 
 ## Installation
 Describe how to install the project and its dependencies.
@@ -15,7 +13,6 @@ Provide guidelines for contributing to the project.
 
 ## License
 This project is licensed under the [License Name](LICENSE).
-
 
 
 
