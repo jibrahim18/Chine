@@ -40,7 +40,14 @@
 <body>
     <header>
         <h1>Ibrahim</h1>
-    </header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+        
+  =  </header>
 
 
 # Introduction
