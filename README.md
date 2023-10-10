@@ -10,24 +10,15 @@
 Provide a brief description of your project or organization. You can include details about its mission, goals, or any relevant background information.
 
 ## Contact Us
-## Contact Us
-
-- Email: contact@example.com
-- Website: [example.com](https://example.com)
-- Twitter: [@example](https://twitter.com/example)
-
-
   Email: contact@example.com
   Website: [example.com](https://example.com)
   Twitter: [@example](https://twitter.com/example)
 
 ## CV
-
-Include the CV or resume information here.
+    Include the CV or resume information here.
 
 ## Portfolio
-
-Link to your portfolio or relevant work examples.
+    Link to your portfolio or relevant work examples.
 
 
 # WELCOME TO MY PAGE                                      
@@ -80,15 +71,13 @@ Link to your portfolio or relevant work examples.
 - Twitter: [@example](https://twitter.com/example)
 
 ## Leave a Message
-
     To leave a message, click the button below:
-
-<button onclick="window.location.href='mailto:contact@example.com'">Leave a Message</button>
-<form action="mailto:contact@example.com" method="post" enctype="text/plain">
+  <button onclick="window.location.href='mailto:contact@example.com'">Leave a Message</button>
+  <form action="mailto:contact@example.com" method="post" enctype="text/plain">
   <label for="title">Title:</label><br>
   <input type="text" id="title" name="title"><br>
   <label for="message">Message:</label><br>
   <textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
   <input type="submit" value="Send">
-</form>
+  </form>
 
