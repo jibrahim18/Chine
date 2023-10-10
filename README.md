@@ -53,7 +53,7 @@
 - Twitter: [@example](https://twitter.com/example)
 
 ## Leave a Message
-    To leave a message, click the button below:
+To leave a message, click the button below:
   <button onclick="window.location.href='mailto:contact@example.com'">Leave a Message</button>
   <form action="mailto:contact@example.com" method="post" enctype="text/plain">
   <label for="title">Title:</label><br>
