@@ -1,24 +1,7 @@
 
-# YZHEJIANG UNIVERSITY
+## YZHEJIANG UNIVERSITY
 
 [About](#about)|[Contact Us](#contact-us) | [CV](#cv) | [Portfolio](#portfolio)
-
-<!-- Rest of your README content -->
-
-## About
-
-Provide a brief description of your project or organization. You can include details about its mission, goals, or any relevant background information.
-
-## Contact Us
-  Email: contact@example.com
-  Website: [example.com](https://example.com)
-  Twitter: [@example](https://twitter.com/example)
-
-## CV
-    Include the CV or resume information here.
-
-## Portfolio
-    Link to your portfolio or relevant work examples.
 
 
 # WELCOME TO MY PAGE                                      
