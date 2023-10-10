@@ -1,7 +1,7 @@
 
 # YZHEJIANG UNIVERSITY
 
-[About](#about) | [Contact Us](#contact-us) | [CV](#cv) | [Portfolio](#portfolio)
+[About](#about)|[Contact Us](#contact-us) | [CV](#cv) | [Portfolio](#portfolio)
 
 <!-- Rest of your README content -->
 
