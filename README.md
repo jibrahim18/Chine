@@ -1,24 +1,33 @@
-div style="text-align: right;">
-  <a href="#installation">Installation</a> |
-  <a href="#usage">Usage</a> |
-  <a href="#contributing">Contributing</a> |
-  <a href="#license">License</a>
-</div>
+
+# YZHEJIANG UNIVERSITY
+
+[About](#about) | [Contact Us](#contact-us) | [CV](#cv) | [Portfolio](#portfolio)
+
+<!-- Rest of your README content -->
+
+## About
+
+Provide a brief description of your project or organization. You can include details about its mission, goals, or any relevant background information.
+
+## Contact Us
+## Contact Us
+
+- Email: contact@example.com
+- Website: [example.com](https://example.com)
+- Twitter: [@example](https://twitter.com/example)
 
 
-## Installation
-Describe how to install the project and its dependencies.
+  Email: contact@example.com
+  Website: [example.com](https://example.com)
+  Twitter: [@example](https://twitter.com/example)
 
-## Usage
-Explain how to use the project with code examples or instructions.
+## CV
 
-## Contributing
-    Provide guidelines for contributing to the project.
+Include the CV or resume information here.
 
-## License
-    This project is licensed under the [License Name](LICENSE).
+## Portfolio
 
-
+Link to your portfolio or relevant work examples.
 
 
 # WELCOME TO MY PAGE                                      
@@ -61,5 +70,25 @@ Explain how to use the project with code examples or instructions.
 
 
 # Design by
-       This project's design was created by [Sierra Leonean Student](https://example.com/student-profile).
+  This project's design was created by [Sierra Leonean Student](https://example.com/student-profile).
+
+
+# Contact
+
+- Email: contact@example.com
+- Website: [example.com](https://example.com)
+- Twitter: [@example](https://twitter.com/example)
+
+## Leave a Message
+
+    To leave a message, click the button below:
+
+<button onclick="window.location.href='mailto:contact@example.com'">Leave a Message</button>
+<form action="mailto:contact@example.com" method="post" enctype="text/plain">
+  <label for="title">Title:</label><br>
+  <input type="text" id="title" name="title"><br>
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
+  <input type="submit" value="Send">
+</form>
 
